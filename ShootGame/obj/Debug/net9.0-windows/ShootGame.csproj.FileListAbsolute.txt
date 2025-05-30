@@ -1,0 +1,14 @@
+E:\F\Projects\AI\公众号\ShootGame\obj\Debug\net9.0-windows\ShootGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\F\Projects\AI\公众号\ShootGame\obj\Debug\net9.0-windows\ShootGame.AssemblyInfoInputs.cache
+E:\F\Projects\AI\公众号\ShootGame\obj\Debug\net9.0-windows\ShootGame.AssemblyInfo.cs
+E:\F\Projects\AI\公众号\ShootGame\obj\Debug\net9.0-windows\ShootGame.csproj.CoreCompileInputs.cache
+E:\F\Projects\AI\公众号\ShootGame\bin\Debug\net9.0-windows\ShootGame.exe
+E:\F\Projects\AI\公众号\ShootGame\bin\Debug\net9.0-windows\ShootGame.deps.json
+E:\F\Projects\AI\公众号\ShootGame\bin\Debug\net9.0-windows\ShootGame.runtimeconfig.json
+E:\F\Projects\AI\公众号\ShootGame\bin\Debug\net9.0-windows\ShootGame.dll
+E:\F\Projects\AI\公众号\ShootGame\bin\Debug\net9.0-windows\ShootGame.pdb
+E:\F\Projects\AI\公众号\ShootGame\obj\Debug\net9.0-windows\ShootGame.dll
+E:\F\Projects\AI\公众号\ShootGame\obj\Debug\net9.0-windows\refint\ShootGame.dll
+E:\F\Projects\AI\公众号\ShootGame\obj\Debug\net9.0-windows\ShootGame.pdb
+E:\F\Projects\AI\公众号\ShootGame\obj\Debug\net9.0-windows\ShootGame.genruntimeconfig.cache
+E:\F\Projects\AI\公众号\ShootGame\obj\Debug\net9.0-windows\ref\ShootGame.dll
